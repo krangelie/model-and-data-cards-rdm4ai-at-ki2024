@@ -8,16 +8,17 @@ This is the repository for the tutorial [Research Data Management in Data Scienc
 
 ## Reading list 
 ### Dataset documentation
-* Ben Hutchinson, Andrew Smart, Alex Hanna, Emily Denton, Christina Greer, Oddur Kjartansson, Parker Barnes, Margaret Mitchell: [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure.](https://dl.acm.org/doi/10.1145/3442188.3445918) FAccT 2021: 560-575
-* Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna M. Wallach, Hal Daumé III, Kate Crawford: [Datasheets for datasets.](https://dl.acm.org/doi/10.1145/3458723) Commun. ACM 64(12): 86-92 (2021)
+* Ben Hutchinson, Andrew Smart, Alex Hanna, Emily Denton, Christina Greer, Oddur Kjartansson, Parker Barnes, Margaret Mitchell: [Towards Accountability for Machine Learning Datasets: Practices from Software Engineering and Infrastructure.](https://dl.acm.org/doi/10.1145/3442188.3445918) FAccT 2021: 560-575.
+* Timnit Gebru, Jamie Morgenstern, Briana Vecchione, Jennifer Wortman Vaughan, Hanna M. Wallach, Hal Daumé III, Kate Crawford: [Datasheets for datasets.](https://dl.acm.org/doi/10.1145/3458723) Commun. ACM 64(12): 86-92 (2021).
 
 ### Model documentation
-* Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru: [Model Cards for Model Reporting.](https://dl.acm.org/doi/10.1145/3287560.3287596) FAT 2019: 220-229
+* Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru: [Model Cards for Model Reporting.](https://dl.acm.org/doi/10.1145/3287560.3287596) FAT 2019: 220-229.
 
 ### Additional readings
-* Bernard Koch, Emily Denton, Alex Hanna, Jacob G. Foster: [Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research.](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/3b8a614226a953a8cd9526fca6fe9ba5-Paper-round2.pdf) NeurIPS Datasets and Benchmarks 2021
-* Amy Heger, Liz B. Marquis, Mihaela Vorvoreanu, Hanna M. Wallach, Jennifer Wortman Vaughan: [Understanding Machine Learning Practitioners' Data Documentation Perceptions, Needs, Challenges, and Desiderata.](https://dl.acm.org/doi/10.1145/3555760) Proc. ACM Hum. Comput. Interact. 6(CSCW2): 1-29 (2022)
-* Will Orr, Edward B. Kang: [AI as a Sport: On the Competitive Epistemologies of Benchmarking.](https://dl.acm.org/doi/10.1145/3630106.3659012) FAccT 2024: 1875-1884
+* Bernard Koch, Emily Denton, Alex Hanna, Jacob G. Foster: [Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research.](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/3b8a614226a953a8cd9526fca6fe9ba5-Paper-round2.pdf) NeurIPS Datasets and Benchmarks 2021.
+* Amy Heger, Liz B. Marquis, Mihaela Vorvoreanu, Hanna M. Wallach, Jennifer Wortman Vaughan: [Understanding Machine Learning Practitioners' Data Documentation Perceptions, Needs, Challenges, and Desiderata.](https://dl.acm.org/doi/10.1145/3555760) Proc. ACM Hum. Comput. Interact. 6(CSCW2): 1-29 (2022).
+* Will Orr, Edward B. Kang: [AI as a Sport: On the Competitive Epistemologies of Benchmarking.](https://dl.acm.org/doi/10.1145/3630106.3659012) FAccT 2024: 1875-1884.
+* Ezi Ozoani, Marissa Gerchick, Margaret Mitchell: [Model Card Guidebook](https://huggingface.co/docs/hub/en/model-card-guidebook). Hugging Face, 2022. 
 
 ## Templates & Tools
 ### Dataset documentation
