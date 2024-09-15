@@ -13,12 +13,14 @@ This is the repository for the tutorial [Research Data Management in Data Scienc
 
 ### Model documentation
 * Margaret Mitchell, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, Timnit Gebru: [Model Cards for Model Reporting.](https://dl.acm.org/doi/10.1145/3287560.3287596) FAT 2019: 220-229.
+* Ezi Ozoani, Marissa Gerchick, Margaret Mitchell: [Model Card Guidebook.](https://huggingface.co/docs/hub/en/model-card-guidebook) Hugging Face, 2022. 
 
-### Additional readings
+### Additional recommended readings
 * Bernard Koch, Emily Denton, Alex Hanna, Jacob G. Foster: [Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research.](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/3b8a614226a953a8cd9526fca6fe9ba5-Paper-round2.pdf) NeurIPS Datasets and Benchmarks 2021.
 * Amy Heger, Liz B. Marquis, Mihaela Vorvoreanu, Hanna M. Wallach, Jennifer Wortman Vaughan: [Understanding Machine Learning Practitioners' Data Documentation Perceptions, Needs, Challenges, and Desiderata.](https://dl.acm.org/doi/10.1145/3555760) Proc. ACM Hum. Comput. Interact. 6(CSCW2): 1-29 (2022).
 * Will Orr, Edward B. Kang: [AI as a Sport: On the Competitive Epistemologies of Benchmarking.](https://dl.acm.org/doi/10.1145/3630106.3659012) FAccT 2024: 1875-1884.
-* Ezi Ozoani, Marissa Gerchick, Margaret Mitchell: [Model Card Guidebook](https://huggingface.co/docs/hub/en/model-card-guidebook). Hugging Face, 2022. 
+* Hugging Face: [The Landscape ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
+* Xinyu Yang, Weixin Liang, James Zou: [Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace.](https://openreview.net/pdf?id=xC8xh2RSs2) ICLR 2024
 
 ## Templates & Tools
 ### Dataset documentation
