@@ -39,4 +39,4 @@ This is the repository for the tutorial [Research Data Management in Data Scienc
 
 ## Model documentation
 * [VerifyML Model Card](https://report.verifyml.com/)
-
+* [Tutorial by Karl Weinmeister](https://cloud.google.com/blog/products/ai-machine-learning/create-a-model-card-with-scikit-learn?hl=en)
