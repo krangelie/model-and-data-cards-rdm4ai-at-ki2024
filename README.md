@@ -1,16 +1,20 @@
 # RDM4AI Tutorial @ KI 2024
 This is the repository for the tutorial [Research Data Management in Data Science and AI - Avoiding a Replicability Crisis (RDM4AI)](https://sites.google.com/view/rdm4ai-2024/) co-located with the [KI 2024](https://www.informatik.uni-wuerzburg.de/ki24/) held in Würzburg, Germany. The tutorial is organized by Leyla Jael Castro (ZB Med), Angelie Kraft (University of Hamburg, Leuphana University Lüneburg) and Ricardo Usbeck (Leuphana University Lüneburg) and an effort of the project [NFDI4DataScience](https://www.nfdi4datascience.de/). 
 
-![alt text](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/Logo_NFDI4DataScience_smaller.jpg?raw=true)
+![NFDI4DS Logo](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/Logo_NFDI4DataScience_smaller.jpg?raw=true)
 
 # Tutorial materials
 ## Examples
 * [Fineweb Model Card](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
 * [Wikipedia Model Card](https://huggingface.co/datasets/wikimedia/wikipedia)
+
 ## Hands-on data card creation
 * [HuggingFace Data Card UI](https://huggingface.co/new-dataset)
 * [Google Data Cards Playbook Template](https://github.com/PAIR-code/datacardsplaybook/tree/main/templates)
 
+How to create a data card via the HuggingFace UI:
+![HuggingFace Data Card creation step 1](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/step1.png?raw=true)
+![HuggingFace Data Card creation step 2](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/step2.png?raw=true)
 ## Hands-on model card creation
 * [HuggingFace Model Card Jupyter Notebook](https://colab.research.google.com/drive/1cmETl1Q8spab3rfsolB1qYp3l7iPYfeP?usp=sharing#scrollTo=By8fG2PKaLX0)
 * [Bias Toolkit Model Card Generator version 0.2](https://bias.xd.gov/resources/model-card-generator/tool/)
