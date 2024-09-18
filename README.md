@@ -31,12 +31,12 @@ This is the repository for the tutorial [Research Data Management in Data Scienc
 * Hugging Face: [The Landscape ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
 * Xinyu Yang, Weixin Liang, James Zou: [Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace.](https://openreview.net/pdf?id=xC8xh2RSs2) ICLR 2024
 
-# Templates & Tools
+# More templates & tools
 ## Dataset documentation
 * [Datasheet for Datasets Template](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t8QB)
 * [Aether Data Documentation Template](https://www.microsoft.com/en-us/research/uploads/prod/2022/07/aether-datadoc-082522.pdf)
-* [Hugging Face Dataset Cards](https://huggingface.co/docs/hub/datasets-cards)
-* [Google Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
+* [Full Google Data Cards Playbook](https://sites.research.google/datacardsplaybook/)
 
 ## Model documentation
+* [VerifyML Model Card](https://report.verifyml.com/)
 
