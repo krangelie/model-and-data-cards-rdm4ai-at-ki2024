@@ -6,7 +6,7 @@ This is the repository for the session "Model and Data Documentation for AI — 
 # Overview
 * **Name**: Model and Data Documentation for AI — Fostering Transparency, Accountability & Replicability
 * **Description**: This tutorial will introduce you to documentation schemas that facilitate comprehensive reporting of key information such as model architectures, hyperparameters, and dataset characteristics. By standardizing documentation practices, researchers can enhance the reproducibility of experiments, foster collaboration across diverse AI domains, and foster transparency regarding biases and limitations.
-* **Keywords**: AI models, documentation, transparency, accountability, data management
+* **Keywords**: AI, documentation, transparency, accountability, AI training data, benchmark data
 
 **Questions**
 * What are data and model cards?
