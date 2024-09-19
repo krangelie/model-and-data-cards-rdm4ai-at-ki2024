@@ -1,10 +1,10 @@
 # Model and Data Documentation for AI — RDM4AI Tutorial @ KI 2024
-This is the repository for the session "Model and Data Documentation for AI — Fostering Transparency, Accountability & Replicability" (Angelie Kraft) that is part of the tutorial [Research Data Management in Data Science and AI - Avoiding a Replicability Crisis (RDM4AI)](https://sites.google.com/view/rdm4ai-2024/) co-located with the [KI 2024](https://www.informatik.uni-wuerzburg.de/ki24/) held in Würzburg, Germany. The tutorial is organized by Leyla Jael Castro (ZB Med), Angelie Kraft (University of Hamburg, Leuphana University Lüneburg) and Ricardo Usbeck (Leuphana University Lüneburg) and an effort of the project [NFDI4DataScience](https://www.nfdi4datascience.de/). 
+This is the repository for the session "Model and Data Documentation for AI: Fostering Transparency, Accountability & Replicability" (Angelie Kraft) that is part of the tutorial [Research Data Management in Data Science and AI - Avoiding a Replicability Crisis (RDM4AI)](https://sites.google.com/view/rdm4ai-2024/) co-located with the [KI 2024](https://www.informatik.uni-wuerzburg.de/ki24/) held in Würzburg, Germany. The tutorial is organized by Leyla Jael Castro (ZB Med), Angelie Kraft (University of Hamburg, Leuphana University Lüneburg) and Ricardo Usbeck (Leuphana University Lüneburg) and an effort of the project [NFDI4DataScience](https://www.nfdi4datascience.de/). 
 
 ![NFDI4DS Logo](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/Logo_NFDI4DataScience_smaller.jpg?raw=true)
 
 # Overview
-* **Name**: Model and Data Documentation for AI — Fostering Transparency, Accountability & Replicability
+* **Name**: Model and Data Documentation for AI: Fostering Transparency, Accountability & Replicability
 * **Description**: This tutorial will introduce you to documentation schemas that facilitate comprehensive reporting of key information such as model architectures, hyperparameters, and dataset characteristics. By standardizing documentation practices, researchers can enhance the reproducibility of experiments, foster collaboration across diverse AI domains, and foster transparency regarding biases and limitations.
 * **Keywords**: AI, documentation, transparency, accountability, AI training data, benchmark data
 
