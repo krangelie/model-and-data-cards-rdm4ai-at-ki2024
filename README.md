@@ -1,7 +1,33 @@
 # RDM4AI Tutorial @ KI 2024
-This is the repository for the tutorial [Research Data Management in Data Science and AI - Avoiding a Replicability Crisis (RDM4AI)](https://sites.google.com/view/rdm4ai-2024/) co-located with the [KI 2024](https://www.informatik.uni-wuerzburg.de/ki24/) held in Würzburg, Germany. The tutorial is organized by Leyla Jael Castro (ZB Med), Angelie Kraft (University of Hamburg, Leuphana University Lüneburg) and Ricardo Usbeck (Leuphana University Lüneburg) and an effort of the project [NFDI4DataScience](https://www.nfdi4datascience.de/). 
+This is the repository for the session "Model and Data Documentation for AI — Fostering Transparency, Accountability & Replicability" (Angelie Kraft) that is part of the tutorial "[Research Data Management in Data Science and AI - Avoiding a Replicability Crisis (RDM4AI)]"(https://sites.google.com/view/rdm4ai-2024/) co-located with the [KI 2024](https://www.informatik.uni-wuerzburg.de/ki24/) held in Würzburg, Germany. The tutorial is organized by Leyla Jael Castro (ZB Med), Angelie Kraft (University of Hamburg, Leuphana University Lüneburg) and Ricardo Usbeck (Leuphana University Lüneburg) and an effort of the project [NFDI4DataScience](https://www.nfdi4datascience.de/). 
 
 ![NFDI4DS Logo](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/Logo_NFDI4DataScience_smaller.jpg?raw=true)
+
+# Overview
+* **Name**: Model and Data Documentation for AI — Fostering Transparency, Accountability & Replicability
+* **Description**: This tutorial will introduce you to documentation schemas that facilitate comprehensive reporting of key information such as model architectures, hyperparameters, and dataset characteristics. By standardizing documentation practices, researchers can enhance the reproducibility of experiments, foster collaboration across diverse AI domains, and foster transparency regarding biases and limitations.
+* **Keywords**: AI models, documentation, transparency, accountability, data management
+
+**Questions**
+* What are data and model cards?
+* Why do we need them?
+* Who are they for?
+* How and where can I create a data or model card?
+
+**Learning outcomes**
+* Understand the motivation and goals behind data and model documentation
+* Understand their use for different stakeholders
+* Know where to find templates and tools and how to use them
+
+**Requirements**
+* Basic knowledge about AI development
+
+**Time estimation** 40 minutes input + 20 minutes hands-on
+**Level** Beginner/Introductory
+**Published** 2024-09-19
+**License** [CC-By 4.0](https://spdx.org/licenses/CC-BY-4.0)
+
+ Version 1.0.0
 
 # Tutorial materials
 ## Examples
@@ -15,9 +41,11 @@ This is the repository for the tutorial [Research Data Management in Data Scienc
 How to create a data card via the HuggingFace UI:
 ![HuggingFace Data Card creation step 1](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/step1.png?raw=true)
 ![HuggingFace Data Card creation step 2](https://github.com/krangelie/rdm4ai-tutorial-ki2024/blob/main/imgs/step2.png?raw=true)
+
 ## Hands-on model card creation
 * [HuggingFace Model Card Jupyter Notebook](https://colab.research.google.com/drive/1cmETl1Q8spab3rfsolB1qYp3l7iPYfeP?usp=sharing#scrollTo=By8fG2PKaLX0)
 * [Bias Toolkit Model Card Generator version 0.2](https://bias.xd.gov/resources/model-card-generator/tool/)
+
 
 # Readings
 ## Dataset documentation
@@ -44,3 +72,7 @@ How to create a data card via the HuggingFace UI:
 ## Model documentation
 * [VerifyML Model Card](https://report.verifyml.com/)
 * [Tutorial by Karl Weinmeister](https://cloud.google.com/blog/products/ai-machine-learning/create-a-model-card-with-scikit-learn?hl=en)
+
+# Acknowledgments
+This tutorial draws a lot of input from the [Model Card Guidebook](https://huggingface.co/docs/hub/en/model-card-guidebook).
+Funding information: German Research Foundation (DFG), project NFDI4DataScience, grant no. [460234259](https://gepris.dfg.de/gepris/projekt/460234259?context=projekt&task=showDetail&id=460234259&).
