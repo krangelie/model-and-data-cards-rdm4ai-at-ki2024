@@ -23,8 +23,11 @@ This is the repository for the session "Model and Data Documentation for AI — 
 * Basic knowledge about AI development
 
 **Time estimation** 40 minutes input + 20 minutes hands-on
+
 **Level** Beginner/Introductory
+
 **Published** 2024-09-19
+
 **License** [CC-By 4.0](https://spdx.org/licenses/CC-BY-4.0)
 
  Version 1.0.0
