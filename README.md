@@ -65,6 +65,8 @@ How to create a data card via the HuggingFace UI:
 * Will Orr, Edward B. Kang: [AI as a Sport: On the Competitive Epistemologies of Benchmarking.](https://dl.acm.org/doi/10.1145/3630106.3659012) FAccT 2024: 1875-1884.
 * Hugging Face: [The Landscape ML Documentation Tools](https://huggingface.co/docs/hub/model-card-landscape-analysis)
 * Xinyu Yang, Weixin Liang, James Zou: [Navigating Dataset Documentations in AI: A Large-Scale Analysis of Dataset Cards on HuggingFace.](https://openreview.net/pdf?id=xC8xh2RSs2) ICLR 2024
+* Amandalynne Paullada, Inioluwa Deborah Raji, Emily M. Bender, Emily Denton, Alex Hanna: [Data and its (Dis)Contents: A Survey of Dataset Development And Use in Machine Learning Research](https://www.cell.com/patterns/fulltext/S2666-3899(21)00184-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666389921001847%3Fshowall%3Dtrue)
+
 
 # More templates & tools
 ## Dataset documentation
